@@ -1,0 +1,17 @@
+cn\xmall\mapper\TbItemParamMapper.class
+cn\xmall\mapper\TbContentCategoryMapper.class
+cn\xmall\mapper\TbSysRolesPermissionsMapper.class
+cn\xmall\mapper\TbSysMenuMapper.class
+cn\xmall\mapper\TbSysRolesMapper.class
+cn\xmall\mapper\TbSysUsersMapper.class
+cn\xmall\mapper\TbContentMapper.class
+cn\xmall\mapper\TbOrderMapper.class
+cn\xmall\mapper\TbItemDescMapper.class
+cn\xmall\mapper\TbSysUsersRolesMapper.class
+cn\xmall\mapper\TbItemCatMapper.class
+cn\xmall\mapper\TbOrderItemMapper.class
+cn\xmall\mapper\TbOrderShippingMapper.class
+cn\xmall\mapper\TbItemParamItemMapper.class
+cn\xmall\mapper\TbSysPermissionsMapper.class
+cn\xmall\mapper\TbItemMapper.class
+cn\xmall\mapper\TbUserMapper.class

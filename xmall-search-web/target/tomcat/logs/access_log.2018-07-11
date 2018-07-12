@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:34:53 +0800] "GET /search.html?keyword=oppo HTTP/1.1" 200 22136 http-bio-8085-exec-1 5783
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:34:54 +0800] "GET /js/xmall.js HTTP/1.1" 304 - http-bio-8085-exec-7 170
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:34:54 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 304 - http-bio-8085-exec-9 44
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:34:54 +0800] "GET /images/logo66.png HTTP/1.1" 304 - http-bio-8085-exec-8 75

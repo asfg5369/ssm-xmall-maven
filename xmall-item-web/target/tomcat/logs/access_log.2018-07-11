@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:35:15 +0800] "GET /js/xmall.js HTTP/1.1" 304 - http-bio-8086-exec-7 164
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:35:15 +0800] "GET /item/153054216513212.html HTTP/1.1" 200 161473 http-bio-8086-exec-2 5254
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:35:16 +0800] "GET /images/logo66.png HTTP/1.1" 304 - http-bio-8086-exec-9 65
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:35:16 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 304 - http-bio-8086-exec-10 22

@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:24:00 +0800] "GET / HTTP/1.1" 200 105057 http-bio-8082-exec-1 6002
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:24:00 +0800] "GET /js/xmall.js HTTP/1.1" 304 - http-bio-8082-exec-7 385
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:24:00 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 304 - http-bio-8082-exec-9 416
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:24:00 +0800] "GET /images/logo66.png HTTP/1.1" 304 - http-bio-8082-exec-8 407
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:24:22 +0800] "GET /images/foot/line.jpg HTTP/1.1" 404 991 http-bio-8082-exec-4 8
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:24:22 +0800] "GET /images/weixin.png HTTP/1.1" 404 985 http-bio-8082-exec-4 2
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:33:46 +0800] "GET / HTTP/1.1" 200 105057 http-bio-8082-exec-2 140
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:33:46 +0800] "GET /images/weixin.png HTTP/1.1" 404 985 http-bio-8082-exec-2 3
+0:0:0:0:0:0:0:1 - - [11/Jul/2018:21:34:39 +0800] "GET / HTTP/1.1" 200 105057 http-bio-8082-exec-2 39
